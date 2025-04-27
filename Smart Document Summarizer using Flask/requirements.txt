@@ -1,6 +1,0 @@
-flask
-requests
-pdfminer.six
-python-docx
-flask-cors
-transformers
